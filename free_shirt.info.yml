@@ -1,0 +1,9 @@
+name: Free Shirt
+type: module
+description: Provides a Free Shirt checkout pane
+package: Custom
+
+core_version_requirement: ^9 || ^10
+dependencies:
+  - commerce
+  - commerce_shipping
